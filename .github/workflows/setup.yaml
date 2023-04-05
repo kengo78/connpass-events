@@ -1,8 +1,13 @@
 name: hourly-web-scraper
 
+# on:
+#   schedule:
+#     - cron: '0 * * * *' # 1時間毎に実行
 on:
-  schedule:
-    - cron: '0 * * * *' # 1時間毎に実行
+  push:
+    branches: 
+      - main
+  workflow_dispatch:
 
 jobs:
   web-scraper:
