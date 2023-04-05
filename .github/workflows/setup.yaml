@@ -1,0 +1,33 @@
+name: hourly-web-scraper
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 1時間毎に実行
+
+jobs:
+  web-scraper:
+    runs-on: macos-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests datetime pytz time
+
+    - name: Run web scraper and upload to GitHub
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN_CONNPASSEVENTS }}
+      run: |
+        python main.py # スクレピング処理を行うPythonスクリプトのファイル名を指定する
+        git config --global user.name "kengo78"
+        git config --global user.email "fulken35@gmail.com"
+        git add data.csv # 収集したデータを保存するファイル名を指定する
+        git commit -m "Add scraped data from connpass"
+        git push origin main
