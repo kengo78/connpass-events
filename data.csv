@@ -1,10 +1,17 @@
 title,catch,event_url,hash_tag,series.title,started_at
+統計的因果推論 輪読会#3(4/22),統計的因果推論の基礎を学びましょう,https://team-ml.connpass.com/event/280561/,因果推論,機械学習コミュニティ「チームML」,2023-04-22T16:00:00+09:00
+『しっかり学ぶ数理最適化』 輪読会 #1,初回は本全体を俯瞰した簡単な講義を行ったのちに、担当決めを行います。,https://reading-circle-beginners.connpass.com/event/278671/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-04-08T18:00:00+09:00
+【増枠】プロンプトエンジニアリングから始めるLangChain入門,GPTなどの大規模言語モデルを使ったアプリケーション開発のフレームワーク,https://studyco.connpass.com/event/280172/,StudyCo,StudyCo,2023-04-20T19:30:00+09:00
+LiveViewJP#15：先端AI・ML実装入門（ChatGPT、whisper、お絵描きAI）,,https://liveviewjp.connpass.com/event/275709/,LiveViewJP,LiveViewJP,2023-03-28T19:30:00+09:00
+Women Tech Terrace 2023,女性エンジニアによるキャリアと技術のカンファレンス,https://cyberagent.connpass.com/event/276834/,,サイバーエージェント / CyberAgent,2023-04-09T12:30:00+09:00
+"LLM(GPT, PaLM等) with MLOps LT大会!!!","MLOps, LLM, LT大会",https://mlops.connpass.com/event/279156/,mlopsコミュニティ,MLOps,2023-04-25T19:00:00+09:00
+ChatGPT×Pythonの有象無象を供養するLT大会【PyData.Fukuoka #17】,いま巷で話題のChatGPT。実際に使ったときの成功・失敗を共有してみませんか？,https://pydatafukuoka.connpass.com/event/280241/,PyDataFukuoka,PyData.Fukuoka,2023-04-19T19:00:00+09:00
+第44回Software Design (2023年5月号)輪読＆座談会,,https://softwaredesign.connpass.com/event/280518/,,Software Design輪読会,2023-05-08T19:00:00+09:00
+第76回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/277210/,ML15min,Machine Learning 15minutes!,2023-04-29T14:00:00+09:00
 SaaSにおけるLLMの重要性と実践 | SaaS.tech #7,PKSHA Technology、MNTSQ、LayerXが大規模言語モデルをテーマにお話します。,https://saas-tech.connpass.com/event/278317/,SaaStech,SaaS.tech,2023-04-19T19:00:00+09:00
 【ゼロから学ぶ】ベイズ推論と機械学習！,,https://ai-tech.connpass.com/event/280503/,,神戸・三ノ宮AI-Tech,2023-04-29T13:00:00+09:00
 自動運転ラジコンカー 走行会 Lap21,あいちゃん、DonkeyCar，JetRacer，その他自動運転ラジコンカー,https://donkeycar-nagoya.connpass.com/event/278379/,自動運転ラジコンカー,自動運転ラジコンカー愛好会,2023-04-09T13:00:00+09:00
-【増枠】プロンプトエンジニアリングから始めるLangChain入門,GPTなどの大規模言語モデルを使ったアプリケーション開発のフレームワーク,https://studyco.connpass.com/event/280172/,StudyCo,StudyCo,2023-04-20T19:30:00+09:00
 第67回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）,"You only live once, so get coding!",https://coderdojo-fukuoka.connpass.com/event/278033/,,CoderDojo福岡,2023-04-08T14:00:00+09:00
-ChatGPT×Pythonの有象無象を供養するLT大会【PyData.Fukuoka #17】,いま巷で話題のChatGPT。実際に使ったときの成功・失敗を共有してみませんか？,https://pydatafukuoka.connpass.com/event/280241/,PyDataFukuoka,PyData.Fukuoka,2023-04-19T19:00:00+09:00
 DXに必要な初心者向けPythonデータサイエンス-データ分析超入門-,プログラミング言語を活用したPythonデータ分析超入門,https://datascience-wakara.connpass.com/event/277253/,Python,だれでもデータサイエンス,2023-04-20T19:30:00+09:00
 DX必須の顧客ニーズを言葉から分析する-テキストマイニング超入門-,お客様アンケートやSNS、口コミなど言葉をサイエンス,https://datascience-wakara.connpass.com/event/277257/,テキスト,だれでもデータサイエンス,2023-04-27T19:30:00+09:00
 データサイエンティストがプログラミング言語Rを学ぶ理由-Rデータ分析超入門-,RとPythonはどちらを学ぶべきなのか？自分のニーズに合わせて選らぶその方法,https://datascience-wakara.connpass.com/event/277256/,プログラミング言語R,だれでもデータサイエンス,2023-04-22T10:30:00+09:00
@@ -21,11 +28,4 @@ TaPL本 (型とプログラミング)を読む　第10回,MACS分科会: TaPLを
 chatGPTを10倍便利にするセミナー@池袋,データサイエンスの会社経営をしている代表がお伝えします,https://connpass.com/event/279007/,,,2023-04-09T16:00:00+09:00
 エンジニア文化祭 2023,超豪華な登壇者が3/3に勢揃い！朝から晩まで本気の勉強会を開催します。,https://forkwell.connpass.com/event/272596/,Forkwell文化祭,Forkwell Community,2023-03-03T10:30:00+09:00
 ML Career Lounge  The final,最終回となります。ML Career Lounge、ゲストはあの人です。,https://forkwell.connpass.com/event/278280/,MLCareerLounge,Forkwell Community,2023-04-27T19:30:00+09:00
-Women Tech Terrace 2023,女性エンジニアによるキャリアと技術のカンファレンス,https://cyberagent.connpass.com/event/276834/,,サイバーエージェント / CyberAgent,2023-04-09T12:30:00+09:00
 ビデオはオフ！寝ぼけまなこでもくもく朝会,少人数で仲良くなれる・技術好きが集まる、ゆるいけどがっつりもくもく会,https://itmokumoku.connpass.com/event/280298/,,みんなのITもくもく会,2023-04-10T08:00:00+09:00
-最強DB講義 データ連携分析技術 ～データでつなぐ人・もの・コト～（是津耕司氏）,,https://dblectures.connpass.com/event/280146/,最強DB講義,DBSJ presents 最強データベース講義シリーズ,2023-04-24T18:30:00+09:00
-オトナの機械学習入門@XOSSPOINT.,〜PythonでAIを作ってみよう〜,https://otona.connpass.com/event/277382/,otona_pro,オトナのプログラミング勉強会,2023-04-12T19:00:00+09:00
-ChatGPT IN ACTION 実践で使う大規模言語モデル,大規模言語モデル(LLM)を実際にプロダクトや実践の上での工夫について学び会うためのイベント,https://rector.connpass.com/event/278495/,chatgptinaction,株式会社レクター,2023-04-05T19:00:00+09:00
-MoT TechTalk タクシーアプリ『GO』大規模トラフィックを捌く分析データ基盤の全容に迫る！,"分析データ基盤,Dataflow,CDC,debezium,dbt,Dataform,MLOps",https://jtx.connpass.com/event/249940/,mot_tech_talk,GO株式会社,2022-06-21T19:00:00+09:00
-AWS Startup Meetup 福岡 #3 ~ あつまれ  アーリースタートアップの森 ~,初めてのスタートアップ！初めてのAWS！初めてのLT！,https://aws-startup-community.connpass.com/event/275922/,AWSStartup,AWS Startup Community,2023-04-05T19:00:00+09:00
-第76回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/277210/,ML15min,Machine Learning 15minutes!,2023-04-29T14:00:00+09:00
