@@ -1,4 +1,13 @@
 title,catch,event_url,hash_tag,series.title,started_at
+Cogbot Meetup Online #40 - Azure OpenAI ハンズオン,Azure OpenAI Service 使い始め~アプリ実装まで、ハンズオン形式でやります！,https://cogbot.connpass.com/event/280424/,cogbot,Cogbot コミュニティ,2023-04-11T19:30:00+09:00
+【大阪】AWS システム開発の技術を披露する会【リアル開催】,『参加無料』クラウド縛りの勉強会＋飲み会【ビヨンド勉強会 #38】,https://beyondjapan.connpass.com/event/280427/,bydstudy,ビヨンド勉強会,2023-05-11T19:00:00+09:00
+Webナイト宮崎 Vol.17 〜てげフリーテーマで話したい〜,新年度！新人さんもベテランさんも全員集合！！,https://tegehoge.connpass.com/event/277742/,Webナイト宮崎,てげほげ,2023-04-14T19:00:00+09:00
+Qiita Conference 2023,5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！,https://increments.connpass.com/event/279734/,QiitaConference,Qiita,2023-05-17T17:30:00+09:00
+Amazonの現役UX主席研究員が明かす 高収益を生み出すオムニチャネル戦略,【EC担当者必見！】ポップインサイト無料ウェビナー,https://popinsight.connpass.com/event/278158/,ポップウェビナー,"ポップインサイト～""アジャイルUXリサーチ""を始めよう！",2023-04-13T13:00:00+09:00
+【広木 大地 氏講演】開発者体験の測定と改善 - UB Tech vol.4,エンジニアリング組織論への招待の著者でもある広木 大地氏を基調講演にお迎えします！,https://uzabase-tech.connpass.com/event/263883/,UBTech,ユーザベース,2022-11-10T19:30:00+09:00
+UV Study : Rust LT会 Vol.7,,https://uniquevision.connpass.com/event/274327/,UV_study,ユニークビジョン株式会社,2023-03-14T19:00:00+09:00
+【数学演習会】チャート式 微分積分,手を動かして実力をつけましょう！,https://ml-for-experts.connpass.com/event/280658/,,AI・機械学習 for Experts,2023-04-15T16:00:00+09:00
+CoderDojo吉備Okayama #024,吉備（岡山）の子ども向けのプログラミング道場の第24回！,https://coderdojokibi.connpass.com/event/280293/,CoderDojo吉備,CoderDojo吉備Okayama,2023-04-22T14:00:00+09:00
 『現代数理統計学の基礎』の問題を解く,問題が豊富，資格の勉強にも丁度良いと思います,https://ml-for-experts.connpass.com/event/280657/,,AI・機械学習 for Experts,2023-04-15T18:00:00+09:00
 【ゼロから学ぶ】ベイズ推論と機械学習！,,https://ai-tech.connpass.com/event/280503/,,神戸・三ノ宮AI-Tech,2023-04-29T13:00:00+09:00
 『しっかり学ぶ数理最適化』 輪読会 #2,#2では4.1節などを読み進めます。,https://reading-circle-beginners.connpass.com/event/280625/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-04-22T18:00:00+09:00
@@ -20,12 +29,3 @@ SaaSにおけるLLMの重要性と実践 | SaaS.tech #7,PKSHA Technology、MNTSQ
 第67回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）,"You only live once, so get coding!",https://coderdojo-fukuoka.connpass.com/event/278033/,,CoderDojo福岡,2023-04-08T14:00:00+09:00
 DXに必要な初心者向けPythonデータサイエンス-データ分析超入門-,プログラミング言語を活用したPythonデータ分析超入門,https://datascience-wakara.connpass.com/event/277253/,Python,だれでもデータサイエンス,2023-04-20T19:30:00+09:00
 DX必須の顧客ニーズを言葉から分析する-テキストマイニング超入門-,お客様アンケートやSNS、口コミなど言葉をサイエンス,https://datascience-wakara.connpass.com/event/277257/,テキスト,だれでもデータサイエンス,2023-04-27T19:30:00+09:00
-データサイエンティストがプログラミング言語Rを学ぶ理由-Rデータ分析超入門-,RとPythonはどちらを学ぶべきなのか？自分のニーズに合わせて選らぶその方法,https://datascience-wakara.connpass.com/event/277256/,プログラミング言語R,だれでもデータサイエンス,2023-04-22T10:30:00+09:00
-[第2回] ML女子部 春のLT大会 〜Data Cloud & AI Summit振り返りetc〜,イベント振り返り、Googleの新しい生成系AI、初心者の方が陥りやすい問題などについて話す会,https://women-ml.connpass.com/event/277664/,MLwomen,ML女子部,2023-04-07T18:00:00+09:00
-【GRWM】Tableau KPI ダッシュボード みんながひらめくデザインメイクアップ術,データサイエンスすいすい会第35回,https://gri.connpass.com/event/280188/,データサイエンスすいすい会,GRI,2023-04-19T18:30:00+09:00
-Cogbot Meetup Online #40 - Azure OpenAI ハンズオン,Azure OpenAI Service 使い始め~アプリ実装まで、ハンズオン形式でやります！,https://cogbot.connpass.com/event/280424/,cogbot,Cogbot コミュニティ,2023-04-11T19:30:00+09:00
-Mito.dev  #40 もくもく会,茨城・水戸近郊のエンジニアが集まりもくもくする会。,https://mito-web-engineer.connpass.com/event/280425/,mitodev,Mito.dev,2023-04-22T13:00:00+09:00
-【オフライン開催】PRIVACY TECH NIGHT #02,Privacy Techの基本から応用まで幅広い情報をお届けするイベントです,https://privacytechnight.connpass.com/event/278138/,PT_NIGHT,PRIVACY TECH NIGHT,2023-04-25T19:00:00+09:00
-オンライン [Math & Coding] ベイズ深層学習  #40,7章 ガウス過程,https://math-coding.connpass.com/event/280420/,,Math & Coding     |  数学と機械学習,2023-04-08T09:30:00+09:00
-オンライン[Math & Coding] 群論 #37,2.10 演習問題,https://math-coding.connpass.com/event/280419/,,Math & Coding     |  数学と機械学習,2023-04-08T16:30:00+09:00
-【増枠】SPSS Modeler vs Python-データ加工が楽なのはどっち-,GUIツールとプログラミングの両方でデータ加工を知って頂く講座,https://ibm-developer.connpass.com/event/278069/,IBMDojo,IBM Tech/Developer Dojo,2023-04-19T12:00:00+09:00
