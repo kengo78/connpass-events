@@ -1,5 +1,9 @@
 title,catch,event_url,hash_tag,series.title,started_at
-JAWS-UG AI/ML #16,AI/MLサービス最新情報 ＆ LT,https://jawsug-ai.connpass.com/event/272998/,jawsug_aiml,JAWS-UG AI/ML 支部,2023-04-18T19:00:00+09:00
+【オンライン開催】『化学・化学工学のための実践データサイエンス』読書会#8,参加者同士インタラクティブに議論し、理解を深める,https://soleildatadojo.connpass.com/event/281194/,DeepLearning,SOLEIL DATA DOJO,2023-04-28T19:30:00+09:00
+JAWS-UG AI/ML #16 - Generative AI,Generative AI on AWS 最新情報 ＆ AI/ML LT,https://jawsug-ai.connpass.com/event/272998/,jawsug_aiml,JAWS-UG AI/ML 支部,2023-04-18T19:00:00+09:00
+Qiita Conference 2023,5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！,https://increments.connpass.com/event/279734/,QiitaConference,Qiita,2023-05-17T17:30:00+09:00
+ChatGPT LT大会@XOSSPOINT.,〜ChatGPTでやってみたこと、勉強したことを共有する会〜,https://otona.connpass.com/event/281067/,otona_pro,オトナのプログラミング勉強会,2023-05-24T19:00:00+09:00
+Webナイト宮崎 Vol.17 〜てげフリーテーマで話したい〜,新年度！新人さんもベテランさんも全員集合！！,https://tegehoge.connpass.com/event/277742/,Webナイト宮崎,てげほげ,2023-04-14T19:00:00+09:00
 【大阪会場Day1】#ChatGPT オンラインハッカソン by #ProtoPedia,非公式に開催する野良ハッカソンです,https://osaka-driven-dev.connpass.com/event/278992/,ProtoPedia,大阪駆動開発,2023-04-14T20:00:00+09:00
 【MS社員と学ぶ】33rd Azure Data and AI Tech Lunch,Microsoft Data Platform Community,https://sqlserver.connpass.com/event/281132/,JSSUG,JSSUG (Japan SQL Server User Group),2023-04-28T12:15:00+09:00
 【24/25卒】オンライン勉強会：「RTBにおける機械学習の活用事例」（機械学習）,2024年/2025年新卒向け： 2022/04月分,https://microad.connpass.com/event/279376/,MicroadDevs,マイクロアド,2023-04-25T18:00:00+09:00
@@ -9,8 +13,6 @@ JAWS-UG AI/ML #16,AI/MLサービス最新情報 ＆ LT,https://jawsug-ai.connpas
 eAI Symposium on Digital Humanism,人間中心のAIガバナンス：ビジョンからエンジニアリングの実践へ,https://engineerableai.connpass.com/event/276056/,,eAI-project,2023-04-14T13:30:00+09:00
 ビデオはオフ！寝ぼけまなこでもくもく朝会,少人数で仲良くなれる・技術好きが集まる、ゆるいけどがっつりもくもく会,https://itmokumoku.connpass.com/event/281104/,,みんなのITもくもく会,2023-04-17T08:00:00+09:00
 TaPL本 (型とプログラミング)を読む　第10回,MACS分科会: TaPLを読む,https://macs.connpass.com/event/280415/,,Mastering All the Computer Science,2023-04-15T10:00:00+09:00
-Webナイト宮崎 Vol.17 〜てげフリーテーマで話したい〜,新年度！新人さんもベテランさんも全員集合！！,https://tegehoge.connpass.com/event/277742/,Webナイト宮崎,てげほげ,2023-04-14T19:00:00+09:00
-Qiita Conference 2023,5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！,https://increments.connpass.com/event/279734/,QiitaConference,Qiita,2023-05-17T17:30:00+09:00
 みんなでPythonを学ぼう！　「Pythonでチャレンジするプログラミング入門」著者がサポート#5,"もくもく会形式ですが、執筆があなたの？？をサポート。また今回は第9,10章に関し解説や裏話もあり！",https://elv.connpass.com/event/281052/,eLV勉強会,eLV,2023-07-14T19:00:00+09:00
 Kubernetes 変更内容共有会（v1.27）,各 SIG の担当者がそのマイナーバージョンリリースでの重要/おもしろポイントを紹介します！,https://kubernetes-updates.connpass.com/event/280927/,k8supdates,Kubernetes 変更内容共有会,2023-05-16T19:00:00+09:00
 ChatGPT×Pythonの有象無象を供養するLT大会【PyData.Fukuoka #17】,いま巷で話題のChatGPT。実際に使ったときの成功・失敗を共有してみませんか？,https://pydatafukuoka.connpass.com/event/280241/,PyDataFukuoka,PyData.Fukuoka,2023-04-19T19:00:00+09:00
@@ -27,5 +29,3 @@ Kubernetes Novice Tokyo #24,,https://k8s-novice-jp.connpass.com/event/278196/,k8
 RevCommオンライン説明会【RevCommのエンジニアの開発組織とは】,RevCommTechDivisionのマトリックス組織について紹介します！,https://revcomm.connpass.com/event/280342/,,RevComm,2023-04-28T19:00:00+09:00
 Cogbot Meetup Online #40 - Azure OpenAI ハンズオン,Azure OpenAI Service 使い始め~アプリ実装まで、ハンズオン形式でやります！,https://cogbot.connpass.com/event/280424/,cogbot,Cogbot コミュニティ,2023-04-11T19:30:00+09:00
 第68回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）,"You only live once, so get coding!",https://coderdojo-fukuoka.connpass.com/event/280813/,,CoderDojo福岡,2023-05-13T14:00:00+09:00
-Amazonの現役UX主席研究員が明かす 高収益を生み出すオムニチャネル戦略,【EC担当者必見！】ポップインサイト無料ウェビナー,https://popinsight.connpass.com/event/278158/,ポップウェビナー,"ポップインサイト～""アジャイルUXリサーチ""を始めよう！",2023-04-13T13:00:00+09:00
-【広木 大地 氏講演】開発者体験の測定と改善 - UB Tech vol.4,エンジニアリング組織論への招待の著者でもある広木 大地氏を基調講演にお迎えします！,https://uzabase-tech.connpass.com/event/263883/,UBTech,ユーザベース,2022-11-10T19:30:00+09:00
