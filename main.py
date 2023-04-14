@@ -2,7 +2,7 @@
 
 import datetime
 # import pytz
-# import time
+import time
 import requests
 import pandas as pd
 
