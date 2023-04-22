@@ -1,9 +1,15 @@
 title,catch,event_url,hash_tag,series.title,started_at
+『しっかり学ぶ数理最適化』 輪読会 #3,#3では4.5節などを読み進めます。,https://reading-circle-beginners.connpass.com/event/281900/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-05-20T18:00:00+09:00
+「1からはじめる Julia プログラミング」 輪読会 #2,,https://reading-circle-beginners.connpass.com/event/280626/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-05-07T16:00:00+09:00
+#ChatGPT オンラインハッカソン vol.01 by #ProtoPedia,非公式に開催する野良ハッカソンです,https://mashupawards.connpass.com/event/278212/,ProtoPedia,一般社団法人MA,2023-04-14T20:00:00+09:00
+Cloudflare Meetup Tokyo Kick Off !!,Cloudflareに興味がある人集まれ！！！,https://cfm-cts.connpass.com/event/275461/,CloudflareUG_hnd,Cloudflare Meetup,2023-04-25T19:00:00+09:00
+#ChatGPT オンラインハッカソン vol.02 by #ProtoPedia,非公式に開催する野良ハッカソンです,https://mashupawards.connpass.com/event/278641/,ProtoPedia,一般社団法人MA,2023-04-14T20:00:00+09:00
+"LLM(GPT, PaLM等) with MLOps LT大会!!!","MLOps, LLM, LT大会",https://mlops.connpass.com/event/279156/,mlopsコミュニティ,MLOps,2023-04-25T19:00:00+09:00
+データサイエンティストがプログラミング言語Rを学ぶ理由-Rデータ分析超入門-,RとPythonはどちらを学ぶべきなのか？自分のニーズに合わせて選らぶその方法,https://datascience-wakara.connpass.com/event/277256/,プログラミング言語R,だれでもデータサイエンス,2023-04-22T10:30:00+09:00
 LLM PoC LT会～PharmaXでの取り組み外部紹介～,,https://yojo.connpass.com/event/281458/,pharmax_tech_collabo,PharmaX,2023-05-10T18:00:00+09:00
 第76回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/277210/,ML15min,Machine Learning 15minutes!,2023-04-29T14:00:00+09:00
 Qiita Conference 2023,5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！,https://increments.connpass.com/event/279734/,QiitaConference,Qiita,2023-05-17T17:30:00+09:00
 ChatGPT LT大会@XOSSPOINT.,〜ChatGPTでやってみたこと、勉強したことを共有する会〜,https://otona.connpass.com/event/281067/,otona_pro,オトナのプログラミング勉強会,2023-05-24T19:00:00+09:00
-"LLM(GPT, PaLM等) with MLOps LT大会!!!","MLOps, LLM, LT大会",https://mlops.connpass.com/event/279156/,mlopsコミュニティ,MLOps,2023-04-25T19:00:00+09:00
 第31回 MLOps 勉強会,"MLOps, 機械学習基盤",https://mlops.connpass.com/event/281497/,mlopsコミュニティ,MLOps,2023-05-30T19:00:00+09:00
 【増枠】生成AI・LLM LT会,医療×LLM・StableDiffusionWebUI・LlamaIndex・Twillio×LLM,https://studyco.connpass.com/event/281472/,StudyCo,StudyCo,2023-05-18T19:30:00+09:00
 Python Boot Camp in 鹿児島2nd,Python初心者向けチュートリアルを鹿児島で開催！,https://pyconjp.connpass.com/event/278007/,pycamp,PyCon JP,2023-05-20T13:00:00+09:00
@@ -21,11 +27,5 @@ AI王 〜クイズAI日本一決定戦〜 振り返り会,,https://pksha-technol
 データビジネス×Snowflake ~一歩進んだSnowflakeの活用事例を学ぼう!~,,https://finatext.connpass.com/event/281447/,,Finatext Holdings Ltd.,2023-05-17T19:00:00+09:00
 プロダクトマネージャーが身につけるべきデータ分析スキル 実践編〜プロデザ！BYリクルートvol.11,,https://recruit-event.connpass.com/event/280680/,プロデザ,株式会社リクルート,2023-06-06T19:00:00+09:00
 【大阪会場Day2】#ChatGPT オンラインハッカソン by #ProtoPedia,非公式に開催する野良ハッカソンです,https://osaka-driven-dev.connpass.com/event/278994/,ProtoPedia,大阪駆動開発,2023-04-22T16:00:00+09:00
-#ChatGPT オンラインハッカソン vol.01 by #ProtoPedia,非公式に開催する野良ハッカソンです,https://mashupawards.connpass.com/event/278212/,ProtoPedia,一般社団法人MA,2023-04-14T20:00:00+09:00
 基本から理解する最尤法・GLMとロジスティック回帰のパラメータ計算の仕組み,ロジスティック回帰のパラメータ計算の仕組みについて基本原理から解説します。,https://ml-for-experts.connpass.com/event/281616/,,AI・機械学習 for Experts,2023-04-30T16:00:00+09:00
 仕組みから理解するBERT・Transformer入門,一見難しそうな印象を受けるBERT・Transformerが直感的に理解できるように解説を行います。,https://ml-for-experts.connpass.com/event/274144/,,AI・機械学習 for Experts,2023-03-11T16:00:00+09:00
-「基礎統計学Ⅰ 統計学入門(東京大学出版会)」 輪読会 【5/14】,各自読み進めを行い議論を行う予定です。わからない箇所の質問なども可です。,https://reading-circle-beginners.connpass.com/event/281265/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-05-14T16:00:00+09:00
-SaaSにおけるLLMの重要性と実践 | SaaS.tech #7,PKSHA Technology、MNTSQ、LayerXが大規模言語モデルをテーマにお話します。,https://saas-tech.connpass.com/event/278317/,SaaStech,SaaS.tech,2023-04-19T19:00:00+09:00
-ChatGPT×Pythonの有象無象を供養するLT大会【PyData.Fukuoka #17】,いま巷で話題のChatGPT。実際に使ったときの成功・失敗を共有してみませんか？,https://pydatafukuoka.connpass.com/event/280241/,PyDataFukuoka,PyData.Fukuoka,2023-04-19T19:00:00+09:00
-【東京ガス社ゲスト登壇】事業会社におけるデータ利活用拡大と分析組織強化のポイントをご紹介,データサイエンスすいすい会第36回,https://gri.connpass.com/event/281478/,データサイエンスすいすい会,GRI,2023-05-24T18:30:00+09:00
-【第11回・WeWork原宿】もくもくスキルアップしよっ会,,https://connpass.com/event/280779/,もくもく,,2023-04-15T13:00:00+09:00
