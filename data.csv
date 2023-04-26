@@ -1,4 +1,14 @@
 title,catch,event_url,hash_tag,series.title,started_at
+LLM PoC LT会～PharmaXでの取り組み外部紹介～,,https://yojo.connpass.com/event/281458/,pharmax_tech_collabo,PharmaX,2023-05-10T18:00:00+09:00
+"LLM(GPT, PaLM等) with MLOps LT大会!!!","MLOps, LLM, LT大会",https://mlops.connpass.com/event/279156/,mlopsコミュニティ,MLOps,2023-04-25T19:00:00+09:00
+Qiita Conference 2023,5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！,https://increments.connpass.com/event/279734/,QiitaConference,Qiita,2023-05-17T17:30:00+09:00
+SHIONOGI Data Engineering Night Meeting,～ SHIONOGIが考えるヘルスケア業界が求めるデータエンジニアとは ～,https://anotherworks.connpass.com/event/282269/,,株式会社Another works,2023-05-16T19:30:00+09:00
+Microsoft UX×AIディレクター登壇 UXリサーチャーが学ぶべき「責任あるAI」の原則,ポップインサイト無料ウェビナー,https://popinsight.connpass.com/event/282268/,ポップウェビナー,"ポップインサイト～""アジャイルUXリサーチ""を始めよう！",2023-05-18T12:00:00+09:00
+ML Career Lounge  The final,最終回となります。ML Career Lounge、ゲストはあの人です。,https://forkwell.connpass.com/event/278280/,MLCareerLounge,Forkwell Community,2023-04-27T19:30:00+09:00
+Machine Learning A Probabilistic Perspective輪読会#47,機械学習の根本的理解を目指そう！,https://thinkerslab.connpass.com/event/282266/,機械学習,思考ラボ,2023-05-21T16:00:00+09:00
+RevCommオンライン座談会【RevCommのエンジニアの開発組織とは】,RevCommTechDivisionのマトリックス組織について紹介します！,https://revcomm.connpass.com/event/280342/,,RevComm,2023-04-28T19:00:00+09:00
+自己紹介しない超もくもく会v3 in秋葉原,言語問わずにもくもく（サブディスプレイ＋個別ブース）,https://syosekiko-mokumoku.connpass.com/event/282224/,ギークライブラリー,書籍庫でもくもく,2023-05-02T13:00:00+09:00
+自己紹介しない超もくもく会v2 in秋葉原,言語問わずにもくもく（サブディスプレイ＋個別ブース）,https://syosekiko-mokumoku.connpass.com/event/246912/,ギークライブラリー,書籍庫でもくもく,2022-05-05T13:00:00+09:00
 第76回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/277210/,ML15min,Machine Learning 15minutes!,2023-04-29T14:00:00+09:00
 第77回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/282213/,ML15min,Machine Learning 15minutes!,2023-05-27T14:00:00+09:00
 【輪読会】『ゼロ作DL②』#2,「ゼロから作るDeep Learning②自然言語処理編」を学ぼう,https://techmath-seminar.connpass.com/event/282206/,てくますゼミ,てくますプロジェクト,2023-05-22T19:00:00+09:00
@@ -18,14 +28,4 @@ Qiita Night～AWS vol.2～,QiitaNight,https://increments.connpass.com/event/2809
 AWS IoT入門ワークショップ（ESP32とAWS IoTでデータの送受信をしよう）,AWS IoT初心者向けのESP32お貸し出しのハンズオンです,https://iotlab.connpass.com/event/281936/,IoTラボ,IoTラボ,2023-04-30T14:00:00+09:00
 最強DB講義 データ連携分析技術 ～データでつなぐ人・もの・コト～（是津耕司氏）,,https://dblectures.connpass.com/event/280146/,最強DB講義,DBSJ presents 最強データベース講義シリーズ,2023-04-24T18:30:00+09:00
 AWS IoT入門ワークショップ（ラズパイとAWS IoTでデータの送受信をしよう）,AWS IoT初心者向けのRaspberry Piお貸し出しのハンズオンワークショップです,https://iotlab.connpass.com/event/281937/,IoTラボ,IoTラボ,2023-04-30T14:00:00+09:00
-Qiita Conference 2023,5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！,https://increments.connpass.com/event/279734/,QiitaConference,Qiita,2023-05-17T17:30:00+09:00
 プロダクトマネージャーが身につけるべきデータ分析スキル 実践編〜プロデザ！BYリクルートvol.11,,https://recruit-event.connpass.com/event/280680/,プロデザ,株式会社リクルート,2023-06-06T19:00:00+09:00
-Mito.dev  #41 もくもく会,茨城・水戸近郊のエンジニアが集まりもくもくする会。,https://mito-web-engineer.connpass.com/event/281985/,mitodev,Mito.dev,2023-05-20T13:00:00+09:00
-"LLM(GPT, PaLM等) with MLOps LT大会!!!","MLOps, LLM, LT大会",https://mlops.connpass.com/event/279156/,mlopsコミュニティ,MLOps,2023-04-25T19:00:00+09:00
-オンライン[Math & Coding] 群論 #39,3章,https://math-coding.connpass.com/event/281923/,,Math & Coding     |  数学と機械学習,2023-05-13T16:30:00+09:00
-機械学習のエンジニアのためのTransformers読書会 #0,,https://pydataosaka.connpass.com/event/273676/,,PyData Osaka,2023-05-13T22:00:00+09:00
-AWS IoT入門ワークショップ（ラズパイとAWS IoTでデータの送受信をしよう）,AWS IoT初心者向けのRaspberry Piお貸し出しのハンズオンワークショップです,https://iotlab.connpass.com/event/281269/,IoTラボ,IoTラボ,2023-04-23T14:00:00+09:00
-Raspberry Piもくもく会（ラズパイお貸し出しあり）,ラズパイのゆるい集まりです,https://iotlab.connpass.com/event/269247/,IoTラボ,IoTラボ,2023-04-22T15:00:00+09:00
-『しっかり学ぶ数理最適化』 輪読会 #3,#3では4.5節などを読み進めます。,https://reading-circle-beginners.connpass.com/event/281900/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-05-20T18:00:00+09:00
-「1からはじめる Julia プログラミング」 輪読会 #2,,https://reading-circle-beginners.connpass.com/event/280626/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-05-07T16:00:00+09:00
-#ChatGPT オンラインハッカソン vol.01 by #ProtoPedia,非公式に開催する野良ハッカソンです,https://mashupawards.connpass.com/event/278212/,ProtoPedia,一般社団法人MA,2023-04-14T20:00:00+09:00
