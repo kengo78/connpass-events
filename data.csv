@@ -1,5 +1,8 @@
 title,catch,event_url,hash_tag,series.title,started_at
-Connpassイベント開催300回目記念★久々オフライン開催【大阪開催】勉強会テーマ決め会,久々にオフラインで勉強会を開催します！,https://soleildatadojo.connpass.com/event/282569/,,SOLEIL DATA DOJO,2023-05-09T18:30:00+09:00
+第76回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/277210/,ML15min,Machine Learning 15minutes!,2023-04-29T14:00:00+09:00
+【大阪】KANSAI AI PUB（関西×人工知能×場）2023/05/10,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/282589/,KansaiAIPub,Deep Learning Osaka,2023-05-10T20:00:00+09:00
+Python x 数学ブートキャンプ ガイド [ Software Design 5月号 ],寄稿者インタビュー：機械学習を理解する基礎を固めるために数学とどのように向き合うか。,https://math-coding.connpass.com/event/279924/,Math&Coding,Math & Coding     |  数学と機械学習,2023-04-29T09:30:00+09:00
+ChatGPT Meetup Tokyo #2,,https://chatgpt.connpass.com/event/281310/,chatgptjp,ChatGPT Community(JP),2023-05-25T19:00:00+09:00
 Qiita Night～AWS vol.2～,QiitaNight,https://increments.connpass.com/event/280918/,QiitaNight,Qiita,2023-05-24T19:00:00+09:00
 DXに必要な初心者向けPythonデータサイエンス-データ分析超入門-,プログラミング言語を活用したPythonデータ分析超入門,https://datascience-wakara.connpass.com/event/279863/,Python,だれでもデータサイエンス,2023-05-21T10:30:00+09:00
 データサイエンティストがプログラミング言語Rを学ぶ理由-Rデータ分析超入門-,RとPythonはどちらを学ぶべきなのか？自分のニーズに合わせて選らぶその方法,https://datascience-wakara.connpass.com/event/279865/,プログラミング言語R,だれでもデータサイエンス,2023-05-20T10:30:00+09:00
@@ -26,6 +29,3 @@ LLM PoC LT会～PharmaXでの取り組み外部紹介～,,https://yojo.connpass.
 機械学習の社会実装勉強会第22回,機械学習をPOCで終わらせない！,https://machine-learning-workshop.connpass.com/event/280038/,機械学習,機械学習の社会実装勉強会,2023-04-29T10:00:00+09:00
 "LLM(GPT, PaLM等) with MLOps LT大会!!!","MLOps, LLM, LT大会",https://mlops.connpass.com/event/279156/,mlopsコミュニティ,MLOps,2023-04-25T19:00:00+09:00
 Qiita Conference 2023,5/17(水)、18(木)、19(金)の3日連続でオンライン開催！どなたでもご参加いただけます！,https://increments.connpass.com/event/279734/,QiitaConference,Qiita,2023-05-17T17:30:00+09:00
-SHIONOGI Data Engineering Night Meeting,～ SHIONOGIが考えるヘルスケア業界が求めるデータエンジニアとは ～,https://anotherworks.connpass.com/event/282269/,,株式会社Another works,2023-05-16T19:30:00+09:00
-ML Career Lounge  The final,最終回となります。ML Career Lounge、ゲストはあの人です。,https://forkwell.connpass.com/event/278280/,MLCareerLounge,Forkwell Community,2023-04-27T19:30:00+09:00
-Machine Learning A Probabilistic Perspective輪読会#47,機械学習の根本的理解を目指そう！,https://thinkerslab.connpass.com/event/282266/,機械学習,思考ラボ,2023-05-21T16:00:00+09:00
