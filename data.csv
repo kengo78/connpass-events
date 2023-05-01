@@ -1,4 +1,12 @@
 title,catch,event_url,hash_tag,series.title,started_at
+【大阪】KANSAI AI PUB（関西×人工知能×場）2023/05/10,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/282589/,KansaiAIPub,Deep Learning Osaka,2023-05-10T20:00:00+09:00
+【大阪】AWS構築・開発の技術勉強会【リアル開催】,『参加無料』クラウド縛りの勉強会＋飲み会【ビヨ勉 #38】,https://beyondjapan.connpass.com/event/280427/,ビヨ勉,ビヨンド勉強会（ビヨ勉）,2023-05-11T19:00:00+09:00
+ビデオはオフ！寝ぼけまなこでもくもく朝会,少人数で仲良くなれる・技術好きが集まる、ゆるいけどがっつりもくもく会,https://itmokumoku.connpass.com/event/282847/,,みんなのITもくもく会,2023-05-08T08:00:00+09:00
+chatGPTハッカソン【GPT4に課金しているガチ勢求む】,プロトタイプや便利ツールも紹介,https://connpass.com/event/281829/,,,2023-05-14T13:00:00+09:00
+Women in Data Science(WiDS) TOKYO @ IBM,データサイエンスと女性技術者にフィーチャーした Dojo スペシャルイベント。オンライン開催です。,https://ibm-developer.connpass.com/event/281353/,WiDS2023,IBM Tech/Developer Dojo,2023-06-09T10:00:00+09:00
+【オンライン】飛騨高山Pythonの会 #40,Flaskを用いたWebアプリ作成、,https://hida-python.connpass.com/event/282799/,"python,飛騨高山Pythonの会",飛騨高山Pythonの会,2023-05-20T10:00:00+09:00
+自己紹介しない超もくもく会v3 in秋葉原,言語問わずにもくもく（サブディスプレイ＋個別ブース）,https://syosekiko-mokumoku.connpass.com/event/282224/,ギークライブラリー,書籍庫でもくもく,2023-05-02T13:00:00+09:00
+【増枠】LLM PoC LT会～PharmaXでの取り組み外部紹介～,,https://yojo.connpass.com/event/281458/,pharmax_tech_collabo,PharmaX,2023-05-10T18:00:00+09:00
 AWS IoT入門ワークショップ（ラズパイとAWS IoTでデータの送受信をしよう）,AWS IoT初心者向けのRaspberry Piお貸し出しのハンズオンワークショップです,https://iotlab.connpass.com/event/281937/,IoTラボ,IoTラボ,2023-05-20T14:00:00+09:00
 はじめてのラズパイ入門ワークショップ,Raspberry Piお貸し出しの手ぶらで参加できるハンズオンワークショップです,https://iotlab.connpass.com/event/281231/,IoTラボ,IoTラボ,2023-05-20T09:00:00+09:00
 箱庭チュートリアル会 #4 箱庭とUnityですすめるオレオレロボットの動かしかた,箱庭で１からロボットを動かしてみよう！,https://hakoniwa.connpass.com/event/281931/,hakoniwa_toppers,箱庭,2023-05-08T18:00:00+09:00
@@ -6,7 +14,6 @@ Pythonで学ぶ統計的因果推論本 輪読会#4(5/13),統計的因果推論�
 第14回ザッピングセミナー,,https://zappingseminar.connpass.com/event/282552/,,ザッピングセミナー,2023-05-23T16:30:00+09:00
 【オンライン】飛騨高山Pythonの会 #39,"Google ベイズ最適化入門,HTTPのメソッド",https://hida-python.connpass.com/event/279174/,"python,飛騨高山Pythonの会",飛騨高山Pythonの会,2023-04-30T13:00:00+09:00
 第76回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/277210/,ML15min,Machine Learning 15minutes!,2023-04-29T14:00:00+09:00
-【大阪】KANSAI AI PUB（関西×人工知能×場）2023/05/10,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/282589/,KansaiAIPub,Deep Learning Osaka,2023-05-10T20:00:00+09:00
 Python x 数学ブートキャンプ ガイド [ Software Design 5月号 ],寄稿者インタビュー：機械学習を理解する基礎を固めるために数学とどのように向き合うか。,https://math-coding.connpass.com/event/279924/,Math&Coding,Math & Coding     |  数学と機械学習,2023-04-29T09:30:00+09:00
 ChatGPT Meetup Tokyo #2,,https://chatgpt.connpass.com/event/281310/,chatgptjp,ChatGPT Community(JP),2023-05-25T19:00:00+09:00
 Qiita Night～AWS vol.2～,QiitaNight,https://increments.connpass.com/event/280918/,QiitaNight,Qiita,2023-05-24T19:00:00+09:00
@@ -14,7 +21,6 @@ DXに必要な初心者向けPythonデータサイエンス-データ分析超�
 データサイエンティストがプログラミング言語Rを学ぶ理由-Rデータ分析超入門-,RとPythonはどちらを学ぶべきなのか？自分のニーズに合わせて選らぶその方法,https://datascience-wakara.connpass.com/event/279865/,プログラミング言語R,だれでもデータサイエンス,2023-05-20T10:30:00+09:00
 これならわかる深層学習入門 - Forkwell ML Startup #1,,https://forkwell.connpass.com/event/282433/,Forkwell_MLS,Forkwell Community,2023-05-17T19:30:00+09:00
 Python Boot Camp in 鹿児島2nd,Python初心者向けチュートリアルを鹿児島で開催！,https://pyconjp.connpass.com/event/278007/,pycamp,PyCon JP,2023-05-20T13:00:00+09:00
-Women in Data Science(WiDS) TOKYO @ IBM,データサイエンスと女性技術者にフィーチャーした Dojo スペシャルイベント。オンライン開催です。,https://ibm-developer.connpass.com/event/281353/,WiDS2023,IBM Tech/Developer Dojo,2023-06-09T10:00:00+09:00
 第17回 意思決定のためのデータ分析勉強会 Hybrid開催,意思決定のためのデータ分析勉強会〜ChatGPT活用特集〜,https://ishikettei.connpass.com/event/281117/,ishikettei,意思決定のためのデータ分析勉強会,2023-05-20T15:00:00+09:00
 ChatGPT Meetup Tokyo #0,"Hello, #ChatGPTjp",https://chatgpt.connpass.com/event/280653/,chatgptjp,ChatGPT Community(JP),2023-04-28T19:00:00+09:00
 ラズパイでラズベリーパイ（お菓子）を焼く会,これまでありそうでなかったイベントです,https://iotlab.connpass.com/event/282009/,IoTラボ,IoTラボ,2023-05-05T09:00:00+09:00
@@ -23,9 +29,3 @@ ChatGPT Meetup Tokyo #0,"Hello, #ChatGPTjp",https://chatgpt.connpass.com/event/2
 CTOのChatGPTの向き合い方,#日本CTO協会,https://cto-a.connpass.com/event/279498/,日本CTO協会,一般社団法人日本CTO協会,2023-06-05T19:00:00+09:00
 RevCommオンライン座談会【RevCommのエンジニアの開発組織とは】,RevCommTechDivisionのマトリックス組織について紹介します！,https://revcomm.connpass.com/event/280342/,,RevComm,2023-04-28T19:00:00+09:00
 ChatGPT LT大会@XOSSPOINT.,〜ChatGPTでやってみたこと、勉強したことを共有する会〜,https://otona.connpass.com/event/281067/,otona_pro,オトナのプログラミング勉強会,2023-05-24T19:00:00+09:00
-W&B 東京ミートアップ #3 - Optuna と W&B,Optunaを使ったHuman-in-the-loop最適化の紹介,https://wandb.connpass.com/event/280477/,wandb,Weights and Biases,2023-04-27T18:30:00+09:00
-【MS社員と学ぶ】33rd Azure Data and AI Tech Lunch,Microsoft Data Platform Community,https://sqlserver.connpass.com/event/281132/,JSSUG,JSSUG (Japan SQL Server User Group),2023-04-28T12:15:00+09:00
-【増枠】生成AI・LLM LT会,医療×LLM・StableDiffusionWebUI・LlamaIndex・Twillio×LLM,https://studyco.connpass.com/event/281472/,StudyCo,StudyCo,2023-05-18T19:30:00+09:00
-【統計検定2級】合格に導く”無料”Zoom勉強会を開催,,https://gri.connpass.com/event/282129/,データサイエンス,GRI,2023-05-18T12:00:00+09:00
-【大阪】AWS構築・開発の技術勉強会【リアル開催】,『参加無料』クラウド縛りの勉強会＋飲み会【ビヨ勉 #38】,https://beyondjapan.connpass.com/event/280427/,ビヨ勉,ビヨンド勉強会（ビヨ勉）,2023-05-11T19:00:00+09:00
-WWWAI #1,AI勉強会@和光市,https://wwwai.connpass.com/event/281626/,,Wako Weekday Workshop on AI,2023-04-24T19:00:00+09:00
