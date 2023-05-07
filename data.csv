@@ -1,9 +1,15 @@
 title,catch,event_url,hash_tag,series.title,started_at
+第77回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/282213/,ML15min,Machine Learning 15minutes!,2023-05-27T14:00:00+09:00
+第1回 Data-Centric AI勉強会,,https://dcai-jp.connpass.com/event/282385/,dcai_jp,Data-Centric AI Community,2023-06-01T19:00:00+09:00
+『現代数理統計学の基礎』の問題を解く,問題が豊富，資格の勉強にも丁度良いと思います,https://ml-for-experts.connpass.com/event/283197/,,AI・機械学習 for Experts,2023-05-13T18:00:00+09:00
+【数学演習会】チャート式 微分積分,手を動かして実力をつけましょう！,https://ml-for-experts.connpass.com/event/283196/,,AI・機械学習 for Experts,2023-05-13T16:30:00+09:00
+【MS社員と学ぶ】34th Azure Data and AI Tech Lunch,Microsoft Data Platform Community,https://sqlserver.connpass.com/event/283192/,JSSUG,JSSUG (Japan SQL Server User Group),2023-05-11T12:15:00+09:00
+【オンライン】Pythonデータ分析勉強会＃36,情報交換会2.5時間,https://pythondata.connpass.com/event/283181/,,Pythonデータ分析勉強会,2023-05-20T13:30:00+09:00
+みんなのPython勉強会#93,Stapy8周年記念！「Pythonとコミュニティ」（仮）,https://startpython.connpass.com/event/272158/,stapy,Start Python Club,2023-05-18T19:00:00+09:00
+日本CTO協会主催 | Developer eXperience Day 2023,日本CTO協会主催の大型イベント！,https://cto-a.connpass.com/event/277153/,dxd2023,一般社団法人日本CTO協会,2023-06-14T11:30:00+09:00
 【botter・仮想通貨】システムトレードの０から１００まで教えます【Python】第2回,投資AIをプログラムしてプログラミングスキルと投資スキルを学ぼう,https://connpass.com/event/277475/,botter,,2023-05-14T19:00:00+09:00
 「1からはじめる Julia プログラミング」 輪読会 #2,,https://reading-circle-beginners.connpass.com/event/280626/,,統計・機械学習の輪読会（初心者〜中級者向け）,2023-04-23T16:00:00+09:00
 第28回 Python勉強会@仙台,もくもく会3時間＋LT1時間（持ち寄り制ビアバッシュ）,https://python-sendai.connpass.com/event/283025/,python-sendai,Python勉強会@仙台,2023-06-03T13:00:00+09:00
-日本CTO協会主催 | Developer eXperience Day 2023,日本CTO協会主催の大型イベント！,https://cto-a.connpass.com/event/277153/,dxd2023,一般社団法人日本CTO協会,2023-06-14T11:30:00+09:00
-第1回 Data-Centric AI勉強会,,https://dcai-jp.connpass.com/event/282385/,dcai_jp,Data-Centric AI Community,2023-06-01T19:00:00+09:00
 DX必須の顧客ニーズを言葉から分析する-テキストマイニング超入門-,お客様アンケートやSNS、口コミなど言葉をサイエンス,https://datascience-wakara.connpass.com/event/279867/,テキスト,だれでもデータサイエンス,2023-05-26T19:30:00+09:00
 【大阪】KANSAI AI PUB（関西×人工知能×場）2023/05/10,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/282589/,KansaiAIPub,Deep Learning Osaka,2023-05-10T20:00:00+09:00
 【会場開催】総集編！グラフ・データベース活用事例,グラフはなぜ使われていない？どうやって使われている？,https://oracle-code-tokyo-dev.connpass.com/event/282421/,OracleGraph,Oracle Code Night,2023-06-09T18:30:00+09:00
@@ -23,9 +29,3 @@ AWS IoT入門ワークショップ（ラズパイとAWS IoTでデータの送受
 はじめてのラズパイ入門ワークショップ,Raspberry Piお貸し出しの手ぶらで参加できるハンズオンワークショップです,https://iotlab.connpass.com/event/281231/,IoTラボ,IoTラボ,2023-05-20T09:00:00+09:00
 箱庭チュートリアル会 #4 箱庭とUnityですすめるオレオレロボットの動かしかた,箱庭で１からロボットを動かしてみよう！,https://hakoniwa.connpass.com/event/281931/,hakoniwa_toppers,箱庭,2023-05-08T18:00:00+09:00
 Pythonで学ぶ統計的因果推論本 輪読会#4(5/13),統計的因果推論の概念・計算の基礎を学び、Pythonで実装できるまで取り組む輪読会です,https://team-ml.connpass.com/event/282634/,因果推論,機械学習コミュニティ「チームML」,2023-05-13T16:00:00+09:00
-第14回ザッピングセミナー,,https://zappingseminar.connpass.com/event/282552/,,ザッピングセミナー,2023-05-23T16:30:00+09:00
-【オンライン】飛騨高山Pythonの会 #39,"Google ベイズ最適化入門,HTTPのメソッド",https://hida-python.connpass.com/event/279174/,"python,飛騨高山Pythonの会",飛騨高山Pythonの会,2023-04-30T13:00:00+09:00
-第76回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/277210/,ML15min,Machine Learning 15minutes!,2023-04-29T14:00:00+09:00
-Python x 数学ブートキャンプ ガイド [ Software Design 5月号 ],寄稿者インタビュー：機械学習を理解する基礎を固めるために数学とどのように向き合うか。,https://math-coding.connpass.com/event/279924/,Math&Coding,Math & Coding     |  数学と機械学習,2023-04-29T09:30:00+09:00
-ChatGPT Meetup Tokyo #2,,https://chatgpt.connpass.com/event/281310/,chatgptjp,ChatGPT Community(JP),2023-05-25T19:00:00+09:00
-Qiita Night～AWS vol.2～,QiitaNight,https://increments.connpass.com/event/280918/,QiitaNight,Qiita,2023-05-24T19:00:00+09:00
