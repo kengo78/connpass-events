@@ -1,10 +1,18 @@
 title,catch,event_url,hash_tag,series.title,started_at
+Python Boot Camp in 鹿児島2nd,Python初心者向けチュートリアルを鹿児島で開催！,https://pyconjp.connpass.com/event/278007/,pycamp,PyCon JP,2023-05-20T13:00:00+09:00
+ChatGPTと攻略する機械学習コンペ｜ハンズオン,ハンズオン形式で、機械学習コンペのエントリーから提出までを実践的に学びます。,https://tomocode.connpass.com/event/283316/,ChatGPT,TomoCode,2023-05-19T19:00:00+09:00
+オトナの機械学習入門2@XOSSPOINT.,〜PythonでAIを作ってみよう〜,https://otona.connpass.com/event/282305/,otona_pro,オトナのプログラミング勉強会,2023-06-14T19:00:00+09:00
+【増枠】生成AI・LLM LT会,医療×LLM・StableDiffusionWebUI・LlamaIndex・Twillio×LLM,https://studyco.connpass.com/event/281472/,StudyCo,StudyCo,2023-05-18T19:30:00+09:00
+日本CTO協会主催 | Developer eXperience Day 2023,日本CTO協会主催の大型イベント！,https://cto-a.connpass.com/event/277153/,dxd2023,一般社団法人日本CTO協会,2023-06-14T11:30:00+09:00
+5/27(土)沼津なんでももくもく会,,https://connpass.com/event/283867/,,,2023-05-27T08:00:00+09:00
+第17回 意思決定のためのデータ分析勉強会 〜ChatGPT活用特集・Hybrid開催〜,,https://ishikettei.connpass.com/event/281117/,ishikettei,意思決定のためのデータ分析勉強会,2023-05-20T15:00:00+09:00
+HarborSもくもく会@表参道 #89,エンジニア特化型コワーキングスペースでもくもくしませんか？,https://harbors-kihonjoho.connpass.com/event/283286/,もくもく会,HarborS_勉強会,2023-05-20T13:00:00+09:00
+DXに必要な初心者向けPythonデータサイエンス-データ分析超入門-,プログラミング言語を活用したPythonデータ分析超入門,https://datascience-wakara.connpass.com/event/279864/,Python,だれでもデータサイエンス,2023-05-31T19:30:00+09:00
 第68回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）,"You only live once, so get coding!",https://coderdojo-fukuoka.connpass.com/event/280813/,,CoderDojo福岡,2023-05-13T14:00:00+09:00
 microCMS Online Meetup 2023,microCMSの新機能や取り組みについて発表する年に1度のMeetupです！,https://microcms.connpass.com/event/283625/,microcms_meetup,microCMS,2023-05-31T19:00:00+09:00
 CTOのChatGPTの向き合い方,#日本CTO協会,https://cto-a.connpass.com/event/279498/,日本CTO協会,一般社団法人日本CTO協会,2023-06-05T19:00:00+09:00
 【オンライン】コダイバ！「ポケモンをうごかしてみよう」「Scratchからアプリ開発まで」#9,オンラインで開催される7〜17歳の子どもを対象にした非営利のプログラミングクラブ,https://coderdojoibaraki.connpass.com/event/281197/,CoderDojo,コダイバ！オンラインプログラミング道場（CoderDojo Ibaraki）,2023-06-24T10:00:00+09:00
 機械学習の社会実装勉強会第23回,機械学習をPOCで終わらせない！,https://machine-learning-workshop.connpass.com/event/283439/,機械学習,機械学習の社会実装勉強会,2023-05-27T10:00:00+09:00
-日本CTO協会主催 | Developer eXperience Day 2023,日本CTO協会主催の大型イベント！,https://cto-a.connpass.com/event/277153/,dxd2023,一般社団法人日本CTO協会,2023-06-14T11:30:00+09:00
 【会場開催】総集編！グラフ・データベース活用事例,グラフはなぜ使われていない？どうやって使われている？,https://oracle-code-tokyo-dev.connpass.com/event/282421/,OracleGraph,Oracle Code Night,2023-06-09T18:30:00+09:00
 クラスメソッド x フォージビジョン x Fusic,【ハイブリッド開催】オフライン会場は福岡です！,https://fusic.connpass.com/event/280126/,classmethod_forgevision_fusic,Fusic Events,2023-05-26T19:00:00+09:00
 AIミーティング 2023/06/14 #ChatGPT #GPT4 #PaLM,【毎月第2水曜日開催】AI関連の「調べてみた」「作ってみた」「やってみた」を共有するLTイベント！,https://osaka-driven-dev.connpass.com/event/283582/,AIMTG,大阪駆動開発,2023-06-14T20:00:00+09:00
@@ -21,11 +29,3 @@ AIミーティング 2023/05/10 #ChatGPT #GPT4 #PaLM,"LLM,強化学習…AI関�
 【大阪】AWS構築・開発の技術勉強会【リアル開催】,『参加無料』クラウド縛りの勉強会＋飲み会【ビヨ勉 #38】,https://beyondjapan.connpass.com/event/280427/,ビヨ勉,ビヨンド勉強会（ビヨ勉）,2023-05-11T19:00:00+09:00
 ChatGPT Meetup Tokyo #2,,https://chatgpt.connpass.com/event/281310/,chatgptjp,ChatGPT Community(JP),2023-05-25T19:00:00+09:00
 【再増枠】LLM PoC LT会～PharmaXでの取り組み外部紹介～,,https://yojo.connpass.com/event/281458/,pharmax_tech_collabo,PharmaX,2023-05-10T18:00:00+09:00
-HarborSもくもく会@表参道 #89,エンジニア特化型コワーキングスペースでもくもくしませんか？,https://harbors-kihonjoho.connpass.com/event/283286/,もくもく会,HarborS_勉強会,2023-05-20T13:00:00+09:00
-第31回 MLOps 勉強会,"MLOps, 機械学習基盤",https://mlops.connpass.com/event/281497/,mlopsコミュニティ,MLOps,2023-05-30T19:00:00+09:00
-LINE CLOVA＆ドコモAIエージェントAPI 対話AIの未来を語る,,https://connpass.com/event/193242/,voiceuimeetup,,2020-11-17T19:00:00+09:00
-LiveViewJP#15：先端AI・ML実装入門（ChatGPT、whisper、お絵描きAI）,,https://liveviewjp.connpass.com/event/275709/,LiveViewJP,LiveViewJP,2023-03-28T19:30:00+09:00
-【東京ガス社ゲスト登壇】事業会社におけるデータ利活用拡大と分析組織強化のポイントをご紹介,データサイエンスすいすい会第36回,https://gri.connpass.com/event/281478/,すいすい会,GRI,2023-05-24T18:30:00+09:00
-【大阪】KANSAI AI PUB（関西×人工知能×場）2023/05/10,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/282589/,KansaiAIPub,Deep Learning Osaka,2023-05-10T20:00:00+09:00
-はじめてのラズパイ入門ワークショップ,Raspberry Piお貸し出しの手ぶらで参加できるハンズオンワークショップです,https://iotlab.connpass.com/event/281231/,IoTラボ,IoTラボ,2023-06-03T09:00:00+09:00
-ChatGPTと攻略する機械学習コンペ｜ハンズオン,ハンズオン形式で、機械学習コンペのエントリーから提出までを実践的に学びます。,https://tomocode.connpass.com/event/283316/,ChatGPT,TomoCode,2023-05-19T19:00:00+09:00
