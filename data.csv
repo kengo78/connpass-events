@@ -1,4 +1,10 @@
 title,catch,event_url,hash_tag,series.title,started_at
+ファインチューニングLLMクラブ #0.2,大規模言語モデルで遊ぶサークルを目指します,https://connpass.com/event/283980/,,,2023-05-28T15:00:00+09:00
+【大阪】KANSAI AI PUB（関西×人工知能×場）2023/06/14,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/283685/,KansaiAIPub,Deep Learning Osaka,2023-06-14T20:00:00+09:00
+【大阪】KANSAI AI PUB（関西×人工知能×場）2023/05/10,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/282589/,KansaiAIPub,Deep Learning Osaka,2023-05-10T20:00:00+09:00
+機械学習のエンジニアのためのTransformers読書会 #1,,https://pydataosaka.connpass.com/event/283914/,,PyData Osaka,2023-05-20T22:00:00+09:00
+AIミーティング 2023/05/10 #ChatGPT #GPT4 #PaLM,"LLM,強化学習…AI関連の「調べてみた」「作ってみた」「やってみた」を共有するLTイベント！",https://osaka-driven-dev.connpass.com/event/282588/,AIMTG,大阪駆動開発,2023-05-10T20:00:00+09:00
+第1回 Data-Centric AI勉強会,,https://dcai-jp.connpass.com/event/282385/,dcai_jp,Data-Centric AI Community,2023-06-01T19:00:00+09:00
 Python Boot Camp in 鹿児島2nd,Python初心者向けチュートリアルを鹿児島で開催！,https://pyconjp.connpass.com/event/278007/,pycamp,PyCon JP,2023-05-20T13:00:00+09:00
 ChatGPTと攻略する機械学習コンペ｜ハンズオン,ハンズオン形式で、機械学習コンペのエントリーから提出までを実践的に学びます。,https://tomocode.connpass.com/event/283316/,ChatGPT,TomoCode,2023-05-19T19:00:00+09:00
 オトナの機械学習入門2@XOSSPOINT.,〜PythonでAIを作ってみよう〜,https://otona.connpass.com/event/282305/,otona_pro,オトナのプログラミング勉強会,2023-06-14T19:00:00+09:00
@@ -16,7 +22,6 @@ CTOのChatGPTの向き合い方,#日本CTO協会,https://cto-a.connpass.com/even
 【会場開催】総集編！グラフ・データベース活用事例,グラフはなぜ使われていない？どうやって使われている？,https://oracle-code-tokyo-dev.connpass.com/event/282421/,OracleGraph,Oracle Code Night,2023-06-09T18:30:00+09:00
 クラスメソッド x フォージビジョン x Fusic,【ハイブリッド開催】オフライン会場は福岡です！,https://fusic.connpass.com/event/280126/,classmethod_forgevision_fusic,Fusic Events,2023-05-26T19:00:00+09:00
 AIミーティング 2023/06/14 #ChatGPT #GPT4 #PaLM,【毎月第2水曜日開催】AI関連の「調べてみた」「作ってみた」「やってみた」を共有するLTイベント！,https://osaka-driven-dev.connpass.com/event/283582/,AIMTG,大阪駆動開発,2023-06-14T20:00:00+09:00
-【大阪】KANSAI AI PUB（関西×人工知能×場）2023/06/14,【初心者・学生参加歓迎】お酒はぬるめの 燗がいい 肴はあぶった AIでいい,https://deep-learning-osaka.connpass.com/event/283685/,KansaiAIPub,Deep Learning Osaka,2023-06-14T20:00:00+09:00
 第77回 Machine Learning 15minutes! Broadcast,機械学習(AI・人工知能)に関するカジュアルトークイベント,https://machine-learning15minutes.connpass.com/event/282213/,ML15min,Machine Learning 15minutes!,2023-05-27T14:00:00+09:00
 ChatGPT Meetup Tokyo #1,共催：DROBE,https://chatgpt.connpass.com/event/280987/,chatgptjp,ChatGPT Community(JP),2023-05-11T18:00:00+09:00
 これならわかる深層学習入門 - Forkwell ML Startup #1,,https://forkwell.connpass.com/event/282433/,Forkwell_MLS,Forkwell Community,2023-05-17T19:30:00+09:00
@@ -24,8 +29,3 @@ ChatGPT Meetup Tokyo #1,共催：DROBE,https://chatgpt.connpass.com/event/280987
 【MS社員と学ぶ】35th Azure Data and AI Tech Lunch,Microsoft Data Platform Community,https://sqlserver.connpass.com/event/283699/,JSSUG,JSSUG (Japan SQL Server User Group),2023-05-26T12:15:00+09:00
 機械学習の社会実装勉強会第23回,機械学習をPOCで終わらせない！,https://machine-learning-workshop.connpass.com/event/283698/,機械学習,機械学習の社会実装勉強会,2023-05-27T10:00:00+09:00
 Qiskitテキストブック勉強会「量子情報の基礎より複数システム-1」,量子情報の基礎,https://quantum-tokyo.connpass.com/event/280908/,量子,Quantum Tokyo,2023-05-10T18:00:00+09:00
-ChatGPT IN ACTION #2 大規模言語モデルがつくる新しい顧客体験,大規模言語モデルがつくる新しい顧客体験,https://rector.connpass.com/event/282064/,chatgptinaction,株式会社レクター,2023-05-30T19:00:00+09:00
-AIミーティング 2023/05/10 #ChatGPT #GPT4 #PaLM,"LLM,強化学習…AI関連の「調べてみた」「作ってみた」「やってみた」を共有するLTイベント！",https://osaka-driven-dev.connpass.com/event/282588/,AIMTG,大阪駆動開発,2023-05-10T20:00:00+09:00
-【大阪】AWS構築・開発の技術勉強会【リアル開催】,『参加無料』クラウド縛りの勉強会＋飲み会【ビヨ勉 #38】,https://beyondjapan.connpass.com/event/280427/,ビヨ勉,ビヨンド勉強会（ビヨ勉）,2023-05-11T19:00:00+09:00
-ChatGPT Meetup Tokyo #2,,https://chatgpt.connpass.com/event/281310/,chatgptjp,ChatGPT Community(JP),2023-05-25T19:00:00+09:00
-【再増枠】LLM PoC LT会～PharmaXでの取り組み外部紹介～,,https://yojo.connpass.com/event/281458/,pharmax_tech_collabo,PharmaX,2023-05-10T18:00:00+09:00
