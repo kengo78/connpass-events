@@ -16,27 +16,25 @@ jobs:
   web-scraper:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-#       with:
-#         node-version: '16.x'
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.x"
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
 
-    - name: Run web scraper and upload to GitHub
-      env:
-        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN_CONNPASSEVENTS }}
-      run: |
-        python main.py # スクレピング処理を行うPythonスクリプトのファイル名を指定する
-        git config --global user.name "kengo78"
-        git config --global user.email "fulken35@gmail.com"
-        git add data.csv # 収集したデータを保存するファイル名を指定する
-        git commit -m "Add scraped data from connpass"
-        git push origin main
+      - name: Run web scraper and upload to GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN_CONNPASSEVENTS }}
+        run: |
+          python main.py 
+          git config --global user.name "kengo78"
+          git config --global user.email "fulken35@gmail.com"
+          git add data.csv # 収集したデータを保存するファイル名を指定する
+          git commit -m "Add scraped data from connpass"
+          git push origin main
